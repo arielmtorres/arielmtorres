@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hola, soy Ariel M. Torres
 
-<!--
-**arielmtorres/arielmtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎸 Desarrollador web junior en formación | Apasionado por la música y la tecnología
 
-Here are some ideas to get you started:
+Soy estudiante de Tecnicatura en Desarrollo de Software en el ISFT 232 (Buenos Aires) y me dedico a crear soluciones útiles con tecnologías web.
+Vengo del mundo de la educación y la música, y estoy aplicando mis conocimientos en proyectos reales como sistemas de gestión, tiendas online, y plataformas educativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+- 🔧 **FerreteApp**: Sistema de stock para ferretería, con código QR y módulo de ventas.
+- 🛠️ **IncidenApp**: Gestión de incidentes escolares, con login multirol y trazabilidad.
+- 💿 **Tienda de Discos**: Tienda online basada en la discografía de Juanjo Domínguez.
+- 👨‍🏫 **Acto Docente**: Automatización para asignación de vacantes docentes.
+- 🌐 **Portfolio Web**: Mi sitio personal con proyectos y contacto.
+
+> ✨ Todos los proyectos incluyen frontend, backend y conexión con bases de datos, adaptados a necesidades reales.
+
+---
+
+## 📫 Contacto
+
+- 🌐 Sitio web: [arielmtorres.com.ar](https://arielmtorres.com.ar) *(próximamente)*
+- 📧 Email: ariel.mauricio.torres83@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/arielmtorres](https://www.linkedin.com/in/ariel-torres-b53113273)
+- 🎓 GitHub: [github.com/arielmtorres](https://github.com/arielmtorres)
+
+---
+
+Gracias por visitar mi perfil 👋  
+¡Estoy abierto a oportunidades, colaboraciones y nuevos desafíos!
+
